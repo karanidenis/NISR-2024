@@ -27,6 +27,10 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
+- navigate to src
+```bash
+cd src
+```
 
 - Run the app
 ```bash

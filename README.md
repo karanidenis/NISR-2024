@@ -34,7 +34,6 @@ cd src
 
 - Run the app
 ```bash
-cd src
 streamlit run app.py
 ```
 

@@ -2,5 +2,10 @@ streamlit
 pandas
 plotly
 openpyxl
+<<<<<<< HEAD
 langflow
 ollama
+=======
+ollama
+langflow
+>>>>>>> refs/remotes/origin/main

@@ -1,1 +1,3 @@
-.Venv
+Venv
+__pycache__
+myenv
